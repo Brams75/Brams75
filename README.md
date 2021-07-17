@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abram-pomposelli-3b74931a0/">Linkedin</a>
 </p>
 
-I'm a __frontend developer__  based in __France__. I like to learn and improve my skills .
+I'm a __react developer__  based in __France__. I like to learn and improve my skills .
 
 * 💼 Currently working as Freelance <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
