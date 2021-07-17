@@ -1,12 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-- 🔭 I’m currently working as freelance
-- 🌱 I’m currently learning typescript, clean code & TDD
-- 👯 I’m looking to collaborate on freelance projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything you want in React if I can help
-- 📫 How to reach me: abram.pomposelli1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://www.google.com">Website</a> •
+  <a href="https://www.linkedin.com/in/abram-pomposelli-3b74931a0/">Linkedin</a>
+</p>
+
+<br/>
+<br/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Brams75.Brams75)
