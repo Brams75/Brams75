@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/abram-pomposelli-3b74931a0/" target="_blank">Linkedin</a>
 </p>
 
-I'm a __react developer__  based in __France__. I like to learn and improve my skills .
+I'm a __react developer__  based in __France__. I like to learn and improve my skills.
 
 * 💼 Currently working as Freelance <br/>
 * 🔖 Discover my <a href="https://brams75.github.io/portfolio/pdf/CV-Abram-Pomposelli.pdf" target="_blank">Curriculum Vitae</a><br/>
