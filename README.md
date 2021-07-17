@@ -8,7 +8,7 @@
 I'm a __react developer__  based in __France__. I like to learn and improve my skills .
 
 * 💼 Currently working as Freelance <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/portfolio/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
+* 🔖 Discover my [Curriculum Vitae](https://brams75.github.io/portfolio/pdf/CV-Abram-Pomposelli.pdf)<br/>
 * 📫 Contact me abram.pomposelli1@gmail.com
 
 ### Languages
