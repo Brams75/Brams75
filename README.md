@@ -1,14 +1,12 @@
 <h1 align="center">Welcome 👋</h1>
 
 <p align="center">
-  <a href="https://brams75.github.io/portfolio/" target="_blank" >Portfolio</a> •
   <a href="https://www.linkedin.com/in/abram-pomposelli-3b74931a0/" target="_blank">Linkedin</a>
 </p>
 
 I'm a __Front-End developer specialized in React__  based in __France__. I like to learn and improve my skills.
 
 * 💼 Currently working as Freelance <br/>
-* 🔖 Discover my <a href="https://brams75.github.io/portfolio/pdf/CV-Abram-Pomposelli.pdf" target="_blank">Curriculum Vitae</a><br/>
 * 📫 Contact me abram.pomposelli1@gmail.com
 
 ### Languages
